@@ -1,0 +1,21 @@
+h1 {
+  font-size: 60px;
+}
+
+.splash {
+  background-color: darkblue;
+  color: #FFF;
+}
+
+.splashmain {
+  height: 200px;
+}
+
+.bodyparts {
+  height: 400px;
+  background-color: blue;
+}
+
+.horizontal-spacer {
+  height: 20px;
+}
